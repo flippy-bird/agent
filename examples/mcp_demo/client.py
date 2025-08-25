@@ -25,6 +25,7 @@ class MCPClient:
             base_url=os.environ["OPENAI_BASE_URL"],
         )
 
+    # 连接本地的服务端
     async def connect_to_server(self, server_scritp_path:str):
         command = "python"
         server_params = StdioServerParameters(
@@ -49,6 +50,7 @@ class MCPClient:
         tools = response.tools
         print("\nConnected to server with tools:", [tool.name for tool in tools])
 
+    # 连接远程的服务端(通过http的方式)
     async def connect_to_http_server(self, http_server_url: str):
         read_stream, write_stream, _ = await self.exit_stack.enter_async_context(streamablehttp_client(http_server_url))
 
@@ -136,7 +138,7 @@ async def main():
 
     client = MCPClient()
     try:
-        # await client.connect_to_server(server_path)
+        # await client.connect_to_server(server_path)  # 连接本地服务端
         await client.connect_to_http_server("http://localhost:8001/mcp")
         await client.chat_loop()
     finally:
