@@ -3,6 +3,7 @@
 > [Agent2Agent (A2A) Protocol](https://github.com/a2aproject/A2A)
 >
 > 官方demo:[Agent2Agent (A2A) Samples](https://github.com/a2aproject/a2a-samples)
+> 也可以参考OpenManus的具体实践: https://github.com/FoundationAgents/OpenManus/tree/main/protocol/a2a/app
 
 ### 1. A2A 与MCP的关系
 
