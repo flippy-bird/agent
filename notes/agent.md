@@ -29,3 +29,7 @@
 1. [AI Agent工程化融合：分享我的实践经验和选型技巧](https://mp.weixin.qq.com/s/itQUn-rwxbccHOye8qeDlg?poc_token=HBdktWijDpGxkS5IXKp6WYZEnWCnkE6UxKn23z_e)
 1. [构建可靠AI Agent：从提示词、工作流到知识库的实战指南](https://mp.weixin.qq.com/s?__biz=MzIzOTU0NTQ0MA==&mid=2247552381&idx=1&sn=966dfc91ab7e75d349fcc82f0713ab04&scene=21&poc_token=HDxltWij5OhQzlceE79xca5aMj_-vJrPCuUKZ-Bu)
 1. [初探：从0开始的AI-Agent开发踩坑实录](https://mp.weixin.qq.com/s/7Lt3WKmHoQY5HifnPFjxoQ)
+1. [Agent的九种设计模式(图解+代码)](https://zhuanlan.zhihu.com/p/692971105)
+1. [LangChain联合Manus季逸超最新分享！也许当前最好的「上下文工程」讲解](https://mp.weixin.qq.com/s/_LlK7hK7vjKYxKJQPn6t8w)
+1. [Agent下半场！比Prompt更重要的是「上下文工程」，Anthropic首次系统阐述](https://mp.weixin.qq.com/s/pFo4hGAAgmYEQUJcC6otkw)
+
