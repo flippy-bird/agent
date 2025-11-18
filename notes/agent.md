@@ -19,6 +19,15 @@
 
 
 
+### Memory
+
+> 1. [ReMe](https://github.com/agentscope-ai/ReMe)
+> 2. [mem0](https://github.com/mem0ai/mem0)
+
+#### mem0的使用方法
+
+
+
 
 
 
@@ -32,4 +41,6 @@
 1. [Agent的九种设计模式(图解+代码)](https://zhuanlan.zhihu.com/p/692971105)
 1. [LangChain联合Manus季逸超最新分享！也许当前最好的「上下文工程」讲解](https://mp.weixin.qq.com/s/_LlK7hK7vjKYxKJQPn6t8w)
 1. [Agent下半场！比Prompt更重要的是「上下文工程」，Anthropic首次系统阐述](https://mp.weixin.qq.com/s/pFo4hGAAgmYEQUJcC6otkw)
+1. [天猫行业中后台前端研发Agent设计](https://mp.weixin.qq.com/s/GwNnkuDvbDDLjp0MHtypQw)
+1. [AI Agent 主流的设计模式（ReAct,Reflection,LATS）其实没有很复杂](https://waytoagi.feishu.cn/wiki/KWjfwZRi3iO6zFk4x9XcuHkhn4a)
 
